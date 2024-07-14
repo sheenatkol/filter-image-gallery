@@ -21,5 +21,5 @@ for(let i = 0; i < list.length; i++){
         item[k].classList.add('active');
       }
     }
-  })
+  }).
 }
